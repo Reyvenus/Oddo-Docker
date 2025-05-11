@@ -1,0 +1,8 @@
+.env
+Dockerfile
+
+ec2-terraform-test
+ec2-terraform-test.pub
+ 
+db/
+odoo-data
